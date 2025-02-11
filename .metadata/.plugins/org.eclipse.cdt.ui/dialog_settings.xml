@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="org.eclipse.swt.widgets.Button" value="true"/>
+	<item key="org.eclipse.cdt.utils.ui.controls.FileListControl" value="${workspace_loc:/${ProjName}/vendors/renesas/boards/rx65n-cloud-kit-uart-sx-ulpgn/aws_demos/gcc/src/smc_gen}"/>
+	<section name="IMPORT_AWS_FREERTOS_WIZARD">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="true"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="completion_proposal_size">
+	</section>
+	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration">
+		<item key="size.width" value="384"/>
+		<item key="size.height" value="328"/>
+		<item key="location.x" value="894"/>
+		<item key="location.y" value="237"/>
+	</section>
+	<section name="OptionalMessageDialog.hide.">
+		<item key="askReindex" value="true"/>
+		<item key="askReindex.detail" value="0"/>
+	</section>
+	<section name="PDOMSearchPage">
+		<item key="caseSensitive" value="false"/>
+		<item key="searchFlags" value="227191"/>
+		<list key="previousPatterns">
+			<item value="GPIO_PORT_B_PIN_1"/>
+			<item value="GPIO_PORT_1_PIN_7"/>
+			<item value="GPIO_PORT_B_PIN_3"/>
+			<item value="IDENTIFY_LED_PORT"/>
+			<item value="GPIO_PORT_B_PIN_0"/>
+		</list>
+	</section>
+</section>
